@@ -15,7 +15,7 @@ for _ in range(t):
     # “+” Menambahkan dua nilai untuk menentukan jumlah kelompok terkecil dari ukuran 2 yang diperlukan.
     # Menambahkan hasil ke daftar hasil.
     
-# Print results
+# Print hasil
 print('\n'.join(map(str, results)))
 # Mengonversi setiap hasil dalam daftar hasil menjadi sebuah string menggunakan map(str, hasil).
 # Menggabungkan string dengan karakter baris baru \n, membuat satu string di mana setiap hasil muncul pada baris baru.
